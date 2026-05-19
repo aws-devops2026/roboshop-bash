@@ -166,7 +166,9 @@ Instead:
 ---
 
  ansible -i 172.31.23.125,172.31.24.238, all -e ansible_user=ec2-user -e ansible_password=DevOps321 -m ansible.builtin.ping
- 
+ ..
+  ansible -i inventory prod -e ansible_user=ec2-user -e ansible_password=DevOps321 -m ansible.builtin.ping
+
 # Inventory in Ansible
 
 Ansible manages servers using an **Inventory** file.
