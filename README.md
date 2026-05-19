@@ -55,7 +55,8 @@ Popular Industry Tools Widely adopted Configuration Management solutions include
 Chef
 Puppet
 Ansible — an open-source automation platform later backed by Red Hat and now part of IBM.
-#............................
+#...............................................................................................
+................................................................................................
 
 ### Executive Summary — roboshop-ansible
 
